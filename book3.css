@@ -1,0 +1,47 @@
+body {
+    margin:0;
+    padding:0;
+    padding-left:3em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: black;
+    background-color:#dcaee8; }
+    .border{
+      border:10px solid #000;
+    }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+    .book-details{
+        background-color: #ffc5e6;
+        font-family: cursive;
+        font-size:larger;
+    }
+  h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif }
+    h1{
+        text-align: center;
+        background-color:rgba(230, 52, 230, 0.712);
+        font-style: italic;
+        font-size:xx-large;
+    }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(0, 0, 8) }
+  a:visited {
+    color: rgb(13, 0, 128) }
+  address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
